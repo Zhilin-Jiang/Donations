@@ -1,5 +1,5 @@
 # CISC 1115
-## Homework-Topic 9-Donations
+## Homework - Topic 9 - Donations
 
 Write a complete program to do the following:
 
